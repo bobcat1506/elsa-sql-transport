@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+
+/ElsaSqlTransport/ElsaSqlTransport/bin/Debug/net5.0
+/ElsaSqlTransport/ElsaSqlTransport/obj
+/ElsaSqlTransport/.vs/ElsaSqlTransport/v16
